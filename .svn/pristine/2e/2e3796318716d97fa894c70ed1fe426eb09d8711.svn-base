@@ -1,0 +1,113 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "awe-dnd@^0.3.0",
+        "scope": null,
+        "escapedName": "awe-dnd",
+        "name": "awe-dnd",
+        "rawSpec": "^0.3.0",
+        "spec": ">=0.3.0 <0.4.0",
+        "type": "range"
+      },
+      "C:\\Users\\Administrator\\Desktop\\未来K线"
+    ]
+  ],
+  "_cnpm_publish_time": 1479695414265,
+  "_from": "awe-dnd@>=0.3.0 <0.4.0",
+  "_hasShrinkwrap": false,
+  "_id": "awe-dnd@0.3.0",
+  "_inCache": true,
+  "_location": "/awe-dnd",
+  "_nodeVersion": "6.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/awe-dnd-0.3.0.tgz_1479695412276_0.4743728940375149"
+  },
+  "_npmUser": {
+    "name": "imawe",
+    "email": "hilongjw@qq.com"
+  },
+  "_npmVersion": "3.9.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "awe-dnd@^0.3.0",
+    "scope": null,
+    "escapedName": "awe-dnd",
+    "name": "awe-dnd",
+    "rawSpec": "^0.3.0",
+    "spec": ">=0.3.0 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/awe-dnd/download/awe-dnd-0.3.0.tgz",
+  "_shasum": "c9906d3f89c8e06c37b8259bee8b92dd79a8b23a",
+  "_shrinkwrap": null,
+  "_spec": "awe-dnd@^0.3.0",
+  "_where": "C:\\Users\\Administrator\\Desktop\\未来K线",
+  "author": {
+    "name": "Awe",
+    "email": "hilongjw@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/hilongjw/vue-draging/issues"
+  },
+  "dependencies": {
+    "es6-map": "^0.1.4"
+  },
+  "description": "makes your elements draggable in Vue",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-es2015-rollup": "^1.2.0",
+    "rollup": "^0.35.10",
+    "rollup-plugin-babel": "^2.6.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "c9906d3f89c8e06c37b8259bee8b92dd79a8b23a",
+    "size": 196587,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/awe-dnd/download/awe-dnd-0.3.0.tgz"
+  },
+  "gitHead": "51a3b6c4091e6d84de03c25a48556ff917783868",
+  "homepage": "https://github.com/hilongjw/vue-draging#readme",
+  "keywords": [
+    "vue-dragging",
+    "vue-drag",
+    "vue-dnd",
+    "vue",
+    "draggable",
+    "drag",
+    "drop",
+    "html5",
+    "draggable",
+    "droppable",
+    "drag-and-drop",
+    "dnd"
+  ],
+  "license": "MIT",
+  "main": "vue-dragging.es5.js",
+  "maintainers": [
+    {
+      "name": "imawe",
+      "email": "hilongjw@qq.com"
+    }
+  ],
+  "name": "awe-dnd",
+  "optionalDependencies": {},
+  "publish_time": 1479695414265,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilongjw/vue-draging.git"
+  },
+  "scripts": {
+    "start": "node build"
+  },
+  "version": "0.3.0"
+}

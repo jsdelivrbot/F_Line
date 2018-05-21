@@ -1,0 +1,130 @@
+/**
+* actionsheet
+*/
+/**
+* datetime
+*/
+/**
+* tabbar
+*/
+/**
+* tab
+*/
+/**
+* dialog
+*/
+/**
+* x-number
+*/
+/**
+* checkbox
+*/
+/**
+* check-icon
+*/
+/**
+* Cell
+*/
+/**
+* Mask
+*/
+/**
+* Range
+*/
+/**
+* Tabbar
+*/
+/**
+* Header
+*/
+/**
+* Timeline
+*/
+/**
+* Switch
+*/
+/**
+* Button
+*/
+/**
+* swipeout
+*/
+/**
+* Cell
+*/
+/**
+* Badge
+*/
+/**
+* Popover
+*/
+/**
+* Button tab
+*/
+/* alias */
+/**
+* Swiper
+*/
+/**
+* checklist
+*/
+/**
+* popup-picker
+*/
+/**
+* popup
+*/
+/**
+* form-preview
+*/
+/**
+* load-more
+*/
+/**
+* sticky
+*/
+/**
+* group
+*/
+/**
+* toast
+*/
+/**
+* icon
+*/
+/**
+* calendar
+*/
+/**
+* search
+*/
+.weui-toast {
+  position: fixed;
+  z-index: 5000;
+  width: 2.5rem;
+  min-height: 2.5rem;
+  top: 40%;
+  margin-left: 2.5rem!important;
+  background: rgba(17, 17, 17, 0.7);
+  text-align: center;
+  border-radius: 5px;
+  color: #FFFFFF;
+}
+.weui-icon_toast {
+  margin: 0.44rem 0 0;
+  display: block;
+}
+.weui-icon_toast.weui-icon-success-no-circle:before {
+  color: #FFFFFF;
+  font-size: 1rem;
+}
+.weui-icon_toast.weui-loading {
+  margin: 0.6rem 0 0;
+  width: 0.7rem;
+  height: 0.7rem;
+  vertical-align: baseline;
+}
+.weui-toast__content {
+  margin: 0 0 0.3rem;
+  font-size: 0.4rem;
+}
